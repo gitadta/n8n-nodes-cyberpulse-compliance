@@ -1,3 +1,7 @@
+> **Note (verification in progress):** Install the active build  
+> `npm i n8n-nodes-cyberpulse-compliance-dev@0.0.31`  
+> This version includes **Credentials** support.
+
 # CyberPulse Compliance (n8n Community Node)
 
 [![npm version](https://img.shields.io/npm/v/n8n-nodes-cyberpulse-compliance.svg)](https://www.npmjs.com/package/n8n-nodes-cyberpulse-compliance)
