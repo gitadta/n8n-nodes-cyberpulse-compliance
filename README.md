@@ -1,5 +1,5 @@
 > **Note (verification in progress):** Install the active build  
-> `npm i n8n-nodes-cyberpulse-compliance-dev@0.0.39`  
+> `npm i n8n-nodes-cyberpulse-compliance-dev@0.0.40`  
 > This version includes **Credentials** support.
 
 # CyberPulse Compliance (n8n Community Node)
